@@ -1,2 +1,7 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+//
+//  LibSkhdConfigExporter.swift
+//  LibSkhdConfigExporter
+//
+//  Created by thomas on 2025-07-22.
+//
+

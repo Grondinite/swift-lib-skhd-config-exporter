@@ -1,0 +1,5 @@
+module CJsonC [system] {
+  header "json.h"
+  link "json-c"
+  export *
+}
